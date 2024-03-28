@@ -89,7 +89,7 @@ impl Redis {
 }
 
 fn connection() -> Connection {
-    match redis::Client::open("redis://127.0.0.1/") {
+    match redis::Client::open("redis://:p23askdf490jkls@127.0.0.1/63790/0") {
         Ok(client) => match client.get_connection() {
             Ok(conn) => return conn,
             Err(e) => panic!("Bad redis connection {}", e),
