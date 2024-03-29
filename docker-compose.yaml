@@ -15,6 +15,5 @@ services:
       - "6379:6379"
     environment:
       - REDIS_HOST=some-redis
-      - REDIS_PASSWORD=p23askdf490jkls
       - REIDS_PORT=6379
     image: redis:latest

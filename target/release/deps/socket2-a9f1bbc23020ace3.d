@@ -1,0 +1,11 @@
+/home/root-user/Desktop/programs/Rust/Jenkins/target/release/deps/libsocket2-a9f1bbc23020ace3.rmeta: /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/unix.rs
+
+/home/root-user/Desktop/programs/Rust/Jenkins/target/release/deps/libsocket2-a9f1bbc23020ace3.rlib: /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/unix.rs
+
+/home/root-user/Desktop/programs/Rust/Jenkins/target/release/deps/socket2-a9f1bbc23020ace3.d: /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs /home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/unix.rs
+
+/home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs:
+/home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs:
+/home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs:
+/home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs:
+/home/root-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/unix.rs:
